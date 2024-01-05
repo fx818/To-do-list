@@ -1,0 +1,36 @@
+html {
+    background-color: aqua;
+    font-weight: bold;
+}
+
+input {
+    background-color: transparent;
+    width: 35%;
+    height: 2rem;
+    border-radius: 2rem;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 5rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+    color: black;
+    font-weight: 600;
+}
+
+
+h1 {
+    font-size: 3rem;
+    font-family: 'Bungee Spice', sans-serif;
+    /* font-family: 'Nabla', system-ui; */
+    /* font-family: 'Rubik Doodle Shadow', system-ui; */
+    /* font-family: 'Rubik Maps', system-ui; */
+    /* font-family: 'Sevillana', cursive; */
+}
+
+ul,li{
+    list-style-type:none;
+}
